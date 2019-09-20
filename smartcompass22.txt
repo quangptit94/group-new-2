@@ -9,7 +9,7 @@
 	      "min-show":"0",
 	       "max-show":"5",
 	    "time-start-out":"100000",
-      	 "package-name-replace":"com.gpschecker.digital.compass"
+      	 "package-name-replace":"xxx.yyy.zzz.compass"
         }
     ]
 }
